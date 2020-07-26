@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.mickeckemi21</groupId>
-    <artifactId>kotlin-coroutines</artifactId>
+    <artifactId>kotlin-1.3-reference-doc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>io.mickeckemi21 kotlin-coroutines</name>
+    <name>io.mickeckemi21 kotlin-1.3-reference-doc</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
